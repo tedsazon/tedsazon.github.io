@@ -1,11 +1,11 @@
 # Site settings
-author: Ted Sazon
-title: 
+author: ted sazon
+title: belated
 header-img: img/home-bg.png
 email: tedsazon@gmail.com
-copyright_name: Ted Sazon
+copyright_name: ted sazon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  an unexpecTed journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tedsazon
