@@ -5,6 +5,7 @@ date:       2018-12-11 15:02:22 -0500
 permalink:  intro_to_ted
 ---
 
+![](http://www.brilliantlivinghq.com/wp-content/uploads/2013/01/The-Hobbit1.png, https://www.google.com/)
 
 
 2018 was the cliche "rollercoaster" year for me. I've been to the mountain top (got married woohoo!). I've seen the heavens (got my dream job yahooo!). With all that I have also been to the bottom. This past May was  a month of great pain and sorrow for the old Tedster. Getting let go is never fun.
