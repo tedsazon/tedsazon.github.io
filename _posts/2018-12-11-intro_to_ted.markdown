@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Intro to Ted"
-date:       2018-12-11 20:02:22 +0000
+date:       2018-12-11 15:02:22 -0500
 permalink:  intro_to_ted
 ---
 
